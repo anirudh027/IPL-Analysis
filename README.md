@@ -7,7 +7,7 @@ The contents of this repository are
 ## 1. deliveries.csv
 deliveries.csv one of the data file that was used in this project.This file contains ball by ball data of all the matches from the year 2008-2017.\
 This csv file contains 21 rows and 150460 rows.The columns are namely\
-"match_id"         "inning"           "batting_team"     "bowling_team" 
+"match_id"         "inning"           "batting_team"     "bowling_team"\ 
 "over"             "ball"             "batsman"          "non_striker"   \  
 "bowler"           "is_super_over"    "wide_runs"        "bye_runs"       \ 
 "legbye_runs"      "noball_runs"      "penalty_runs"     "batsman_runs"    \
