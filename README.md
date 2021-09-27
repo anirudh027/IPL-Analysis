@@ -24,11 +24,11 @@ This csv file contains 18 rows and 636 rows. The columns are namely\
 "win_by_wickets"  "player_of_match" "venue"           "umpire1"        \
 "umpire2"         "umpire3" 
 
-## 3. final.Rmd
+## 3. final.R
 This file contains the R code of the complete analysis. The project can be completely and fully replicated.
 
 ## 4. final.pdf
-This file is the pdf equvalent of the .Rmd file. This pdf file is made with R markdown and LaTex. 
+This file is the pdf equvalent of the .R file. This pdf file is made with R markdown and LaTex. 
 
 
 
